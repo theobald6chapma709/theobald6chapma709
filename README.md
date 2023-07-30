@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @theobald6chapma709
+- 👀 I’m interested in Backend. I’m currently learning Node.js.
+- 🌱 Backend developer in training. Proficient in Node.js. Keen on server-side solutions.
